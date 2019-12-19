@@ -27,7 +27,7 @@
     <td>Cool Double slider signin/up (inspired by Florin Pop) </td>
     <td>https://khyatipadhiyar.github.io/signin_signup_slider/</td>
     </tr>
-    
   </tbody>
 </table>
+
 
