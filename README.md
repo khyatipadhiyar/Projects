@@ -1,5 +1,5 @@
 # Projects
-<h3>Hiii:smiley:<br>Following are the list of projects, I have done recently.</h3>
+<h3>Hiii:smiley:,<br>Following are the list of projects, I have done recently.</h3>
 <table>
   <thead>
     <th> No </th>
@@ -22,6 +22,12 @@
     <td>Template with slider and map </td>
     <td>https://khyatipadhiyar.github.io/website-template-0/</td>
     </tr>
+    <tr>
+    <td>04</td>
+    <td>Cool Double slider signin/up (inspired by Florin Pop) </td>
+    <td>https://khyatipadhiyar.github.io/signin_signup_slider/</td>
+    </tr>
+    
   </tbody>
 </table>
 
