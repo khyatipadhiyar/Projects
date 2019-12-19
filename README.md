@@ -17,7 +17,11 @@
     <td>Beautiful PSD converted to HTML </td>
     <td>https://khyatipadhiyar.github.io/psd-to-html-antlycorp/</td>
     </tr>
-    
+    <tr>
+    <td>03</td>
+    <td>Template with slider and map </td>
+    <td>https://khyatipadhiyar.github.io/website-template-0/</td>
+    </tr>
   </tbody>
 </table>
 
