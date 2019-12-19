@@ -1,5 +1,5 @@
 # Projects
-<h3>Follwoing are the list of projects, I have done recently.</h3>
+<h3>Follwoing are the list of projects, I have done recently:smiley:.</h3>
 <table>
   <thead>
     <th> No </th>
