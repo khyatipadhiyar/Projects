@@ -1,5 +1,5 @@
 # Projects
-<h3>Hiii:smiley:Following are the list of projects, I have done recently.</h3>
+<h3>Hiii:smiley:<br>Following are the list of projects, I have done recently.</h3>
 <table>
   <thead>
     <th> No </th>
