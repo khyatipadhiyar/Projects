@@ -27,6 +27,11 @@
     <td>Cool Double slider signin/up (inspired by Florin Pop) </td>
     <td>https://khyatipadhiyar.github.io/signin_signup_slider/</td>
     </tr>
+     <tr>
+    <td>05</td>
+    <td>URL shortening landing page </td>
+    <td>https://khyatipadhiyar.github.io/URL-shortening-landing-page/</td>
+    </tr>
   </tbody>
 </table>
 
