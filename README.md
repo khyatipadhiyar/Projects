@@ -33,8 +33,8 @@
     <td>https://khyatipadhiyar.github.io/URL-shortening-landing-page/</td>
     </tr>
     <tr>
-    <td>05</td>
-    <td>URL shortening landing page </td>
+    <td>06</td>
+    <td>fylo-dark-theme-landing-page-master</td>
     <td>https://khyatipadhiyar.github.io/fylo-dark-theme-landing-page-master/</td>
     </tr>
   </tbody>
