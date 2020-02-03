@@ -29,13 +29,18 @@
     </tr>
      <tr>
     <td>05</td>
-    <td>URL shortening landing page </td>
+    <td>URL shortening landing page mobile responsive</td>
     <td>https://khyatipadhiyar.github.io/URL-shortening-landing-page/</td>
     </tr>
     <tr>
     <td>06</td>
-    <td>fylo-dark-theme-landing-page-master</td>
+    <td>fylo-dark-theme-landing-page-master mobile responsive</td>
     <td>https://khyatipadhiyar.github.io/fylo-dark-theme-landing-page-master/</td>
+    </tr>
+    <tr>
+    <td>07</td>
+    <td>bookmark-landing-page-master mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/bookmark-landing-page-master/</td>
     </tr>
   </tbody>
 </table>
