@@ -42,6 +42,11 @@
     <td>bookmark-landing-page-master mobile responsive</td>
     <td>https://khyatipadhiyar.github.io/bookmark-landing-page-master/</td>
     </tr>
+    <tr>
+    <td>08</td>
+    <td>manage-landing-page-master mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/manage-landing-page-master/</td>
+    </tr>
   </tbody>
 </table>
 
