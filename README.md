@@ -7,25 +7,25 @@
     <th> Link </th>
   </thead>
   <tbody>
-    <tr>
-    <td>01</td>
-    <td>CSS Grid responsive without bootstrap </td>
-    <td>https://khyatipadhiyar.github.io/cssgridwebsite/</td>
+     <tr>
+    <td>09</td>
+    <td>easybank-landing-page-master mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/easybank-landing-page-master/</td>
     </tr>
     <tr>
-    <td>02</td>
-    <td>Beautiful PSD converted to HTML </td>
-    <td>https://khyatipadhiyar.github.io/psd-to-html-antlycorp/</td>
+    <td>08</td>
+    <td>manage-landing-page-master mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/manage-landing-page-master/</td>
+    </tr>
+     <tr>
+    <td>07</td>
+    <td>bookmark-landing-page-master mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/bookmark-landing-page-master/</td>
     </tr>
     <tr>
-    <td>03</td>
-    <td>Template with slider and map </td>
-    <td>https://khyatipadhiyar.github.io/website-template-0/</td>
-    </tr>
-    <tr>
-    <td>04</td>
-    <td>Cool Double slider signin/up (inspired by Florin Pop) </td>
-    <td>https://khyatipadhiyar.github.io/signin_signup_slider/</td>
+    <td>06</td>
+    <td>fylo-dark-theme-landing-page-master mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/fylo-dark-theme-landing-page-master/</td>
     </tr>
      <tr>
     <td>05</td>
@@ -33,19 +33,24 @@
     <td>https://khyatipadhiyar.github.io/URL-shortening-landing-page/</td>
     </tr>
     <tr>
-    <td>06</td>
-    <td>fylo-dark-theme-landing-page-master mobile responsive</td>
-    <td>https://khyatipadhiyar.github.io/fylo-dark-theme-landing-page-master/</td>
+    <td>04</td>
+    <td>Cool Double slider signin/up (inspired by Florin Pop) </td>
+    <td>https://khyatipadhiyar.github.io/signin_signup_slider/</td>
+    </tr>
+     <tr>
+    <td>03</td>
+    <td>Template with slider and map </td>
+    <td>https://khyatipadhiyar.github.io/website-template-0/</td>
     </tr>
     <tr>
-    <td>07</td>
-    <td>bookmark-landing-page-master mobile responsive</td>
-    <td>https://khyatipadhiyar.github.io/bookmark-landing-page-master/</td>
+    <td>02</td>
+    <td>Beautiful PSD converted to HTML </td>
+    <td>https://khyatipadhiyar.github.io/psd-to-html-antlycorp/</td>
     </tr>
-    <tr>
-    <td>08</td>
-    <td>manage-landing-page-master mobile responsive</td>
-    <td>https://khyatipadhiyar.github.io/manage-landing-page-master/</td>
+     <tr>
+    <td>01</td>
+    <td>CSS Grid responsive without bootstrap </td>
+    <td>https://khyatipadhiyar.github.io/cssgridwebsite/</td>
     </tr>
   </tbody>
 </table>
