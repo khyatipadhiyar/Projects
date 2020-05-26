@@ -7,6 +7,12 @@
     <th> Link </th>
   </thead>
   <tbody>
+      <tr>
+    <td>09</td>
+    <td>insure-landing-page-master mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/insure-landing-page-master/</td>
+    </tr>
+    <tr>
      <tr>
     <td>09</td>
     <td>easybank-landing-page-master mobile responsive</td>
