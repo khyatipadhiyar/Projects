@@ -13,12 +13,13 @@
     <td>https://khyatipadhiyar.github.io/Neumorphic-UI-Component/</td>
     </tr>
       <tr>
+      <tr>
     <td>10</td>
     <td>insure-landing-page-master mobile responsive</td>
     <td>https://khyatipadhiyar.github.io/insure-landing-page-master/</td>
     </tr>
     <tr>
-
+  <tr>
     <td>09</td>
     <td>easybank-landing-page-master mobile responsive</td>
     <td>https://khyatipadhiyar.github.io/easybank-landing-page-master/</td>
