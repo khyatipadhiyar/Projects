@@ -8,6 +8,12 @@
   </thead>
   <tbody>
     <tr>
+    <td>12</td>
+    <td>Price Table Mobile responsive</td>
+    <td>https://khyatipadhiyar.github.io/Price-Table/</td>
+    </tr>
+      <tr>
+    <tr>
     <td>11</td>
     <td>Neumorphic-UI-Component</td>
     <td>https://khyatipadhiyar.github.io/Neumorphic-UI-Component/</td>
