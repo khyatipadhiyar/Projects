@@ -7,6 +7,11 @@
     <th> Link </th>
   </thead>
   <tbody>
+     <tr>
+    <td>13</td>
+    <td>Social-Media-Dashboard/ Mobile responsive</td>
+    <td> https://khyatipadhiyar.github.io/Social-Media-Dashboard/</td>
+    </tr>
     <tr>
     <td>12</td>
     <td>Price Table Mobile responsive</td>
