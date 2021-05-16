@@ -9,7 +9,7 @@
   <tbody>
      <tr>
     <td>19</td>
-    <td>Movie List with routing/REST API/ Mobile responsive</td>
+    <td>Movie List with routing/REST API/ Mobile responsive/ React Js</td>
     <td>https://vibrant-hoover-0312ed.netlify.app/</td>
     </tr>
      <tr>
